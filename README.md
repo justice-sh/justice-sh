@@ -9,8 +9,8 @@ Fullstack Web Developer
 ## Skills
 
 * ⚡ TypeScript, JavaScript
-* ⚛️ NextJs, React, HTML, CSS
-* 🧑🏾‍💻 NodeJs, MongoDB, Firebase, etc.
+* ⚛️ Tanstack, NextJs, React, TailwindCSS, HTML, CSS
+* 🧑🏾‍💻 NodeJs, NestJs, Postgres, MongoDB, Firebase, etc.
 
 <!-- ## Example of Work -->
 <!-- [<img src='https://github.com/justice-sh/justice-sh/blob/main/flo-pic-3.png' alt='eow1' height='140' width='256'>](https://floprotocol.io/) -->
