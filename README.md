@@ -1,4 +1,4 @@
-![justice-p-banner](https://github.com/justice-sh/justice-sh/blob/main/github-image-profile.png)
+![justice-p-banner](https://github.com/justice-sh/justice-sh/blob/main/github-image-profile.jpg)
 
 
 # Hi there 👋, I'm Justice
